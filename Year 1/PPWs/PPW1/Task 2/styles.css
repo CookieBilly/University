@@ -1,0 +1,229 @@
+/*  
+
+Background image style setting
+
+*/
+
+body { 
+
+    background-image: url("https://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/2/2018/06/BRAMMEIER-Matthew001pp.jpg");
+    background-repeat: none;
+    background-size: cover;
+
+}
+
+/*  
+
+Navigation bar area styling at the top
+
+*/
+
+#box {
+
+    background-color: white;
+    border-radius: 5px 0px 5px 0px;
+    width: 70%;
+    margin: auto;
+    padding-right: 3%;
+    padding-left: 3%;
+    padding-top: 3%;
+    margin-top: 5%;
+    margin-bottom: 0%;
+	
+}
+
+#box #nav {
+
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    box-shadow: 3px 3px 8px #888888;
+    border-radius: 8px 8px 8px 8px;
+    padding-bottom: 5px;
+    margin-bottom: 3%;
+    margin-right: -5%;
+    margin-left: -5%;
+    background-color: lightblue;
+
+}
+
+#box #nav #logo img {
+
+    padding-top: 2%;
+    width: 80%;
+    height: 80%;
+    
+}
+
+/*  
+
+Document wide styling for text (no specifics needed, so did it for global document)
+
+*/
+
+p {
+
+    font-family: 'Bree Serif', serif;
+    color: darkslategray;
+    line-height: 100%;
+    letter-spacing: 0.3px;
+	font-size: 14px;
+
+}
+
+h1 {
+
+    padding-left: 320px;
+    width: 100%;
+    color: darkslategray;
+    margin-left: 20%;
+    font-family: 'Baloo Bhai', cursive;
+    line-height: 80%;
+    letter-spacing: 0px;
+	font-size: 40px;
+
+}
+
+h2 {
+
+    font-family: 'Bree Serif', serif;
+    color: darkslategray;
+    line-height: 80%;
+    letter-spacing: 0px;
+	font-size: 30px;
+
+}
+
+h3 {
+
+    font-family: 'Bree Serif', serif;
+    color: darkslategray;
+    line-height: 80%;
+    letter-spacing: 0px;
+	font-size: 20px;
+
+}
+
+/*  
+
+Main image section styling
+
+*/
+
+#box #coverimage h3 {
+
+    margin-left: 73%;
+    margin-top: -25%;
+
+}
+
+#box #coverimage p {
+
+    margin-left: 73%;
+
+}
+
+#box #coverimage button {
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+    margin-left: 73%;
+    margin-bottom: 13.5%;
+
+}
+
+#box #coverimage img {
+
+    width: 70%;
+    height: 350px;
+    box-shadow: 5px 3px 8px #888888;
+
+}
+
+/*  
+
+Information section styling
+
+*/
+
+#box #information #title {
+
+    font-family: 'Patua One', cursive;
+
+}
+
+#box #information #description {
+
+    margin-bottom: 2%;
+    border-bottom: 1px solid lightgray;
+
+}
+
+/*  
+
+Syling for the 'prizes' section
+
+*/
+
+#box #information #prizes {
+
+    margin-bottom: 2%;
+    border-bottom: 1px solid lightgray;
+
+}
+
+/*  
+
+Syling for the 'cities' section
+
+*/
+
+#box #information #cities {
+
+    margin-bottom: 2%;
+    border-bottom: 1px solid lightgray;
+
+}
+
+/*  
+
+Syling for the 'social media' section
+
+*/
+
+#box #information #socialmedia #links {
+
+    padding-top: 10px;
+    margin-left: 37%;
+    padding-bottom: 20px;
+
+}
+
+#box #information #socialmedia #links a {
+
+    padding-right: 10px;
+
+}
+
+#box #information #socialmedia #links a:link {
+
+    padding-right: 10px;
+    text-decoration: none;
+    color: slategray;
+
+}
+
+#box #information #socialmedia #links a:visited {
+
+    padding-right: 10px;
+    text-decoration: none;
+    color: slategray;
+
+}
+
+#box #information #socialmedia #links a:hover {
+
+    padding-right: 10px;
+    text-decoration: none;
+    color: slategray;
+
+}

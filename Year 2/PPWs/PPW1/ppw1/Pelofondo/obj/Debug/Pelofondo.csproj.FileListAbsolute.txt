@@ -1,0 +1,9 @@
+C:\Users\BILLY\source\repos\Pelofondo\Pelofondo\bin\Debug\Pelofondo.exe.config
+C:\Users\BILLY\source\repos\Pelofondo\Pelofondo\bin\Debug\Pelofondo.exe
+C:\Users\BILLY\source\repos\Pelofondo\Pelofondo\bin\Debug\Pelofondo.pdb
+C:\Users\BILLY\source\repos\Pelofondo\Pelofondo\obj\Debug\Pelofondo.csprojAssemblyReference.cache
+C:\Users\BILLY\source\repos\Pelofondo\Pelofondo\obj\Debug\Pelofondo.Form1.resources
+C:\Users\BILLY\source\repos\Pelofondo\Pelofondo\obj\Debug\Pelofondo.Properties.Resources.resources
+C:\Users\BILLY\source\repos\Pelofondo\Pelofondo\obj\Debug\Pelofondo.csproj.GenerateResource.cache
+C:\Users\BILLY\source\repos\Pelofondo\Pelofondo\obj\Debug\Pelofondo.exe
+C:\Users\BILLY\source\repos\Pelofondo\Pelofondo\obj\Debug\Pelofondo.pdb

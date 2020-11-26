@@ -1,0 +1,15 @@
+C:\Users\BILLY\source\repos\PPW4-Task1\PPW4-Task1\bin\Debug\PPW4-Task1.exe.config
+C:\Users\BILLY\source\repos\PPW4-Task1\PPW4-Task1\bin\Debug\PPW4-Task1.exe
+C:\Users\BILLY\source\repos\PPW4-Task1\PPW4-Task1\bin\Debug\PPW4-Task1.pdb
+C:\Users\BILLY\source\repos\PPW4-Task1\PPW4-Task1\obj\Debug\PPW4-Task1.csprojAssemblyReference.cache
+C:\Users\BILLY\source\repos\PPW4-Task1\PPW4-Task1\obj\Debug\PPW4_Task1.IncidentRecord.resources
+C:\Users\BILLY\source\repos\PPW4-Task1\PPW4-Task1\obj\Debug\PPW4_Task1.Menu.resources
+C:\Users\BILLY\source\repos\PPW4-Task1\PPW4-Task1\obj\Debug\PPW4_Task1.Properties.Resources.resources
+C:\Users\BILLY\source\repos\PPW4-Task1\PPW4-Task1\obj\Debug\PPW4_Task1.Searchincident.resources
+C:\Users\BILLY\source\repos\PPW4-Task1\PPW4-Task1\obj\Debug\PPW4_Task1.Statistics.resources
+C:\Users\BILLY\source\repos\PPW4-Task1\PPW4-Task1\obj\Debug\PPW4-Task1.csproj.GenerateResource.cache
+C:\Users\BILLY\source\repos\PPW4-Task1\PPW4-Task1\obj\Debug\PPW4-Task1.exe
+C:\Users\BILLY\source\repos\PPW4-Task1\PPW4-Task1\obj\Debug\PPW4-Task1.pdb
+C:\Users\BILLY\source\repos\PPW4-Task1\PPW4-Task1\obj\Debug\PPW4_Task1.FollowupSearch.resources
+C:\Users\BILLY\source\repos\PPW4-Task1\PPW4-Task1\obj\Debug\PPW4_Task1.TreatmentReason.resources
+C:\Users\BILLY\source\repos\PPW4-Task1\PPW4-Task1\obj\Debug\PPW4_Task1.IncidentViewBox.resources

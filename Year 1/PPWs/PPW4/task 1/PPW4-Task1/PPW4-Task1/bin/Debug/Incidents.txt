@@ -1,0 +1,48 @@
+1
+Billy Robinson
+Participant
+Rode a bike into a fence, caused serious brain injury and has lead to permanent brain damage.
+London
+True
+True
+Sent to hospital, was given a head xray.
+2
+Ellenoir Lowdon
+Staff
+Someone drove a bike over her big toe, caused serious damage to her toe.
+Stadium Of Light
+False
+True
+n/a
+3
+Rhys Littlewood
+General Public
+Was injured when a bike went into their leg.
+South Shields
+False
+True
+n/a
+4
+Miley Cyrus
+General Public
+Was damaged when a car crashed into her like a wrecking ball
+Newcastle
+True
+True
+Bandage, wound dressed
+5
+Shaun Robinson
+Staff
+Tripped over whilst walking through the carpark
+Newcastle
+False
+False
+n/a
+6
+billy robinson
+Participant
+Bumped his head
+Sunderland City Center
+True
+True
+Got a bandage on his head
